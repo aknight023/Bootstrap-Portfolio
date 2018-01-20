@@ -97,6 +97,7 @@
 		float: left;
 		position: relative;
 		padding: 25px;
+		cursor: pointer;
 	}
 	.portHeader {
 		position: absolute;
