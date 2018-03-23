@@ -5,6 +5,8 @@
 	background-repeat: repeat;
 	font-size: 18px;  
   	color: #777;
+  	min-height: 100%;
+
 
 	}
 
@@ -53,6 +55,7 @@
     	overflow: auto;
     	position: relative;    	
     	bottom:0;
+    	display: block;
 
 	}
 	.titleHeader {

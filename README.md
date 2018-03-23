@@ -1,2 +1,2 @@
-# Bootstrap-Portfolio
-Assignment two Instructions for homework (Bootstrap)
+# Anthony's Portfolio
+My Portfolio using bootstrap.
