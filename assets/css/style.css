@@ -18,7 +18,7 @@
 		padding-bottom: 0px;
 	}
 	nav {
-		position: fixed;		
+		/*position: fixed;*/		
 		width: 100%;
 		color: #fff;
 		background: #fff;
@@ -136,6 +136,15 @@
 		color: grey !important;
 	}
 	
-	.main {
+/*	.main {
 		height: 100vh;
+	}*/
+
+
+	@media screen and (max-width: 64em) and (min-width: 42em) {
+		.footer {
+			display: block;
+			position: relative;
+		}
+
 	}
